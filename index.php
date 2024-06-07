@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <center><h1>Apoteker</h1></center>
+    <center><h1>Rumah Sakit Sehat</h1></center>
     
     <h3>Tabel Dokter</h3>
     <table>
